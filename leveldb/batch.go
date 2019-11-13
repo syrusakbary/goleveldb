@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/pingcap/goleveldb/leveldb/errors"
-	"github.com/pingcap/goleveldb/leveldb/memdb"
-	"github.com/pingcap/goleveldb/leveldb/storage"
+	"github.com/syrusakbary/goleveldb/leveldb/errors"
+	"github.com/syrusakbary/goleveldb/leveldb/memdb"
+	"github.com/syrusakbary/goleveldb/leveldb/storage"
 )
 
 // ErrBatchCorrupted records reason of batch corruption. This error will be

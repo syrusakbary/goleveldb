@@ -12,7 +12,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/pingcap/goleveldb/leveldb/testutil"
+	"github.com/syrusakbary/goleveldb/leveldb/testutil"
 )
 
 func TestBatchHeader(t *testing.T) {

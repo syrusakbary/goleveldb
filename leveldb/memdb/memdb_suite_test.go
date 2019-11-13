@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pingcap/goleveldb/leveldb/comparer"
-	"github.com/pingcap/goleveldb/leveldb/testutil"
+	"github.com/syrusakbary/goleveldb/leveldb/comparer"
+	"github.com/syrusakbary/goleveldb/leveldb/testutil"
 )
 
 func TestMemDB(t *testing.T) {
